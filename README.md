@@ -37,5 +37,7 @@ Langkah 3: Download Data NLTK
     python -c "import nltk; nltk.download('punkt'); nltk.download('stopwords'); nltk.download('wordnet')"
 
 Langkah 4: Jalankan Program
-
-    python SC.py
+Vs Code : 
+    
+    code .python SC.py
+    
