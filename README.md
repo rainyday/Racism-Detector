@@ -41,7 +41,6 @@ Vs Code :
     
     code .python SC.py
 
-
 Whole command :
 Windows : 
 
