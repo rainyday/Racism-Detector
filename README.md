@@ -40,4 +40,13 @@ Langkah 4: Jalankan Program
 Vs Code : 
     
     code .python SC.py
-    
+
+
+Whole command :
+Windows : 
+
+    git clone https://github.com/rainyday/racism-detector.git; cd racism-detector; pip install pandas scikit-learn nltk; python -c "import nltk; nltk.download('punkt'); nltk.download('stopwords'); nltk.download('wordnet')"; code .; python SC.py
+
+Mac/Linux:
+
+    git clone https://github.com/rainyday/racism-detector.git && cd racism-detector && pip install pandas scikit-learn nltk && python -c "import nltk; nltk.download('punkt'); nltk.download('stopwords'); nltk.download('wordnet')" && code . && python SC.py
